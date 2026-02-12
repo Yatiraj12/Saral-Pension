@@ -1,0 +1,116 @@
+{
+  "document": "QA.pdf",
+  "source": "/mnt/data/QA.pdf",
+  "chunking_strategy": "section_based_semantic",
+  "total_pages": 168,
+  "chunks": [
+    {
+      "chunk_id": "qa_001",
+      "title": "All Citizen Model – Pre Subscription Phase",
+      "category": "NPS Basics",
+      "content": "Covers FAQs related to definition of NPS, features, eligibility, sectors covered, structure of intermediaries, charges, and process to open an account. Includes PRAN issuance, Tier I and Tier II accounts, documentation requirements, investment choices, and status tracking of application."
+    },
+    {
+      "chunk_id": "qa_002",
+      "title": "Subscription and Accumulation Phase",
+      "category": "NPS Account Management",
+      "content": "Covers contribution rules, minimum contributions, frequency of contributions, switching fund managers, changing investment choices, PRAN portability, Tier I and Tier II functionality, and account servicing."
+    },
+    {
+      "chunk_id": "qa_003",
+      "title": "Nomination Rules and Family Definition",
+      "category": "Nomination",
+      "content": "Explains who can be nominated, definition of family under NPS, rules for multiple nominees (must total 100%), fresh nomination after marriage, consequences if nominee predeceases subscriber, nomination for minors, guardian appointment rules, and modification of nomination (allowed unlimited times)."
+    },
+    {
+      "chunk_id": "qa_004",
+      "title": "Exit at Superannuation (Normal Exit)",
+      "category": "Exit Rules",
+      "content": "Upon attaining superannuation age, minimum 40% of accumulated pension wealth must be used to purchase annuity and up to 60% can be withdrawn as lump sum. If corpus is ≤ ₹5 lakh (in some sectors) or ≤ ₹2.5 lakh (depending on rules), full withdrawal permitted. Details vary by sector (All Citizen, CG, SG, Corporate)."
+    },
+    {
+      "chunk_id": "qa_005",
+      "title": "Premature Exit (Before Superannuation)",
+      "category": "Exit Rules",
+      "content": "Premature exit includes resignation, voluntary exit, dismissal, or leaving before superannuation age. Minimum 80% of accumulated corpus must be annuitized, and maximum 20% paid as lump sum. If corpus ≤ ₹2.5 lakh, full withdrawal allowed."
+    },
+    {
+      "chunk_id": "qa_006",
+      "title": "Exit Due to Death",
+      "category": "Exit Rules - Death",
+      "content": "In case of subscriber death before superannuation, minimum 80% annuitization required and 20% paid to nominee/legal heir. Full withdrawal allowed if corpus ≤ ₹5 lakh. Nominees may opt to withdraw or purchase annuity depending on corpus size."
+    },
+    {
+      "chunk_id": "qa_007",
+      "title": "Annuity – Definition and Mandatory Nature",
+      "category": "Annuity",
+      "content": "Annuity means periodic payment purchased from empaneled Annuity Service Providers (ASPs). It provides regular post-retirement income. Purchase of annuity is mandatory at exit except specific cases where full withdrawal is allowed."
+    },
+    {
+      "chunk_id": "qa_008",
+      "title": "Empaneled Annuity Service Providers (ASPs)",
+      "category": "Annuity",
+      "content": "Lists 14 ASPs empaneled by PFRDA including LIC, SBI Life, HDFC Life, ICICI Prudential, Kotak Life, Max Life, Tata AIA, Bajaj Allianz, and others. Subscribers must purchase annuity from empaneled ASPs."
+    },
+    {
+      "chunk_id": "qa_009",
+      "title": "Default Annuity under NPS",
+      "category": "Annuity",
+      "content": "Default annuity provides life annuity to subscriber and spouse with return of purchase price. After demise of subscriber and spouse, annuity reissued to dependent parents. Thereafter purchase price returned to children or legal heirs. Default annuity is mandatory in death or missing cases but optional otherwise."
+    },
+    {
+      "chunk_id": "qa_010",
+      "title": "Sector Specific Exit Rules (CG/CAB/SG/SAB/Corporate)",
+      "category": "Sector Specific",
+      "content": "Details variations in exit provisions across Central Government, State Government, Corporate and All Citizen models. Includes rules for disability, invalidation, premature retirement, employer adjustments of pension corpus, and annuity start timing."
+    },
+    {
+      "chunk_id": "qa_011",
+      "title": "Tax Treatment under NPS",
+      "category": "Taxation",
+      "content": "Explains exemption under Section 10(12AA) and 10(12AB), annuity taxation, lump sum exemptions, corpus transfer to pool corpus not chargeable under Section 80CCD(6). Provides illustrative tax examples including ₹2 crore corpus case and exemption scenarios."
+    },
+    {
+      "chunk_id": "qa_012",
+      "title": "Unified Pension Scheme (UPS) – Eligibility and Benefits",
+      "category": "UPS",
+      "content": "Explains UPS operationalization under NPS. Covers admissible payout, benchmark corpus vs individual corpus, monthly top-up formula, representative annuity rates, dearness relief, and lump sum payout (1/10th of last drawn basic + DA for every 6 months of service)."
+    },
+    {
+      "chunk_id": "qa_013",
+      "title": "UPS – Benefits for Retired Before 31/03/2025",
+      "category": "UPS",
+      "content": "Provides table of benefits payable to subscriber or spouse if retired before 31 March 2025. Includes lump sum payout, final withdrawal amount, monthly top-up with arrears and interest, family payout (60% of top-up), claim forms B2, B4, B6."
+    },
+    {
+      "chunk_id": "qa_014",
+      "title": "UPS – Benefits for Retired On or After 01/04/2025",
+      "category": "UPS",
+      "content": "Explains benefits structure post 1 April 2025. Includes lump sum payout, final withdrawal, monthly admissible payout under FR 56(j), family payout rules, claim forms B1, B3, B5."
+    },
+    {
+      "chunk_id": "qa_015",
+      "title": "NPS Vatsalya – Overview",
+      "category": "NPS Vatsalya",
+      "content": "NPS Vatsalya is contributory pension scheme for minors. Open to all Indian citizens below 18. Operated by guardian. PRAN issued in minor’s name. Objective is early retirement saving habit."
+    },
+    {
+      "chunk_id": "qa_016",
+      "title": "NPS Vatsalya – Contributions and Exit",
+      "category": "NPS Vatsalya",
+      "content": "Partial withdrawals allowed up to 3 times after 3 years. At age 18, minimum 80% corpus must be annuitized and remaining 20% lump sum. Full withdrawal allowed if corpus ≤ ₹2.5 lakh. In case of minor death, entire corpus paid to guardian."
+    },
+    {
+      "chunk_id": "qa_017",
+      "title": "Grievance Redressal Mechanism",
+      "category": "Grievance",
+      "content": "Grievances can be filed via Central Grievance Management System (CGMS). Resolution required within 30 days. Escalation matrix defined. Ombudsman provisions, appeal format requirements, and Securities Appellate Tribunal appeal process explained."
+    },
+    {
+      "chunk_id": "qa_018",
+      "title": "Retirement Adviser Registration",
+      "category": "Regulatory",
+      "content": "Covers eligibility, qualification (graduate + NISM certification), online registration process, application fees (₹500 application fee + ₹1000 registration fee), certificate validity (3 years), exemptions, and compliance requirements."
+    }
+  ]
+}

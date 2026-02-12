@@ -1,0 +1,109 @@
+{
+  "document": "retirement.pdf",
+  "source": "/mnt/data/retirement.pdf",
+  "chunking_strategy": "section_based_semantic",
+  "chunks": [
+    {
+      "chunk_id": "ret_001",
+      "title": "Retirement Education Overview",
+      "category": "Introduction",
+      "content": "This booklet by PFRDA Financial Literacy and Training Department introduces retirement education and awareness. It emphasizes earning financial freedom early in life to avoid financial worries in retirement. Retirement is defined as the stage when one stops working and lives on accumulated savings. Post-retirement needs include household expenses, family support, recreation, and medical expenses. Planning early ensures financial independence during golden years."
+    },
+    {
+      "chunk_id": "ret_002",
+      "title": "Importance of Retirement Planning",
+      "category": "Retirement Basics",
+      "content": "Retirement planning involves estimating required savings to sustain expenses after retirement. In India, individuals may live more than 20 years post-retirement at age 60. Without planning, individuals risk insufficient wealth and may require re-employment. Increased life expectancy and rising costs demand systematic savings. Planning early reduces the risk of running out of funds later."
+    },
+    {
+      "chunk_id": "ret_003",
+      "title": "Pension as Retirement Solution",
+      "category": "Pension Concept",
+      "content": "Pension is described as the primary financial support during retirement. It is not limited to government employees; anyone can obtain a pension. A pension provides guaranteed, fixed monthly income sourced from accumulated funds. It ensures stable post-retirement income and financial security."
+    },
+    {
+      "chunk_id": "ret_004",
+      "title": "Start Early – Power of Compounding",
+      "category": "Savings Strategy",
+      "content": "Individuals can plan retirement between ages 18 and 70. Starting early reduces monthly contribution requirements and increases retirement corpus. Example: A 25-year-old with ₹10,000 current expenses retiring at 60 (inflation 5%, return 10%) needs ₹2,236 monthly and corpus of ₹85 lakh. Delayed planning significantly increases required contributions. Compounding over long periods enhances retirement wealth."
+    },
+    {
+      "chunk_id": "ret_005",
+      "title": "Factors to Keep in Mind",
+      "category": "Retirement Planning Factors",
+      "content": "Key considerations include retirement age, expected monthly expenses, inflation impact, and return on pension investments. Example: ₹10,000 current expense becomes ₹43,000 at retirement with 5% inflation. Early retirement requires higher monthly savings. Fixed deposits (6%) yield lower corpus than equity (12%). Risk-return balance must align with retirement goals."
+    },
+    {
+      "chunk_id": "ret_006",
+      "title": "Building Your Retirement Plan",
+      "category": "Execution Strategy",
+      "content": "Steps to build retirement plan: (1) Use retirement calculator to estimate savings requirement. (2) Assess current savings capacity and risk tolerance. (3) Explore pension plans and compare features such as guaranteed pension, asset classes, transparency, cost, regulation, service delivery, and grievance mechanisms. Low-cost, transparent, well-regulated plans are preferable."
+    },
+    {
+      "chunk_id": "ret_007",
+      "title": "Investment Options Comparison",
+      "category": "Product Comparison",
+      "content": "Comparison includes NPS, APY, PPF, Mutual Funds, and Insurance Pension Schemes. NPS offers portability, low cost (0.26–0.3%), tax benefits under Sections 80C and 80CCD(1B), lump sum plus pension, and tax-free withdrawals. APY offers guaranteed fixed pension. PPF offers fixed returns and tax benefits. Mutual funds provide flexibility but require monitoring. Insurance pension schemes include life cover but higher cost."
+    },
+    {
+      "chunk_id": "ret_008",
+      "title": "Pension vs Lump Sum Advantage",
+      "category": "Retirement Income Strategy",
+      "content": "Lump sum retirement funds may deplete quickly, often within five years. Pension/annuity provides regular predictable income, better financial security, and controlled spending. Lump sum offers flexibility but increases risk of overspending and depletion. Regular pension ensures lifelong payments and better financial management."
+    },
+    {
+      "chunk_id": "ret_009",
+      "title": "National Pension System (NPS) Features",
+      "category": "NPS Overview",
+      "content": "NPS allows contributions throughout working life and provides retirement income. Key features: Tax efficiency (Sections 80CCD), simplicity (PRAN), well-regulated by PFRDA, flexible contributions (minimum ₹500 per contribution, ₹1000 annually), investment freedom (Active or Auto Choice), portability across jobs/cities, sustainability via annuity, low cost structure, easy online access through eNPS and PoPs."
+    },
+    {
+      "chunk_id": "ret_010",
+      "title": "NPS Investment Options",
+      "category": "NPS Investment",
+      "content": "Two main options: Active Choice (self-allocation across Equity, Corporate Debt, Government Securities, Alternative Assets) and Auto Choice (age-based allocation: Aggressive, Moderate, Conservative). Subscribers can switch schemes up to four times per year and change Pension Fund Manager once annually. Equity allocation reduces with age in life cycle funds."
+    },
+    {
+      "chunk_id": "ret_011",
+      "title": "Taxation under NPS",
+      "category": "NPS Tax Benefits",
+      "content": "Tax benefits for individuals: Deduction under Section 80CCD(1) within ₹1.5 lakh limit (80CCE), additional ₹50,000 under Section 80CCD(1B). Corporate employees: Additional deduction up to 10% of salary under Section 80CCD(2). On withdrawal: Lump sum is tax-free subject to conditions; annuity purchase amount tax-free; pension income taxable as per tax slab."
+    },
+    {
+      "chunk_id": "ret_012",
+      "title": "NPS Withdrawal and Exit Rules",
+      "category": "NPS Exit",
+      "content": "At retirement (60 years): Up to 60% lump sum, 40% annuity mandatory. Premature exit (before 60): 20% lump sum, 80% annuity mandatory. Complete withdrawal allowed if corpus < ₹2.5 lakh (premature) or < ₹5 lakh (normal exit). Option to continue till age 75. Partial withdrawals allowed three times after 3 years for specific purposes."
+    },
+    {
+      "chunk_id": "ret_013",
+      "title": "Annuities under NPS",
+      "category": "Annuity Options",
+      "content": "Annuities convert lump sum into periodic payments. Types include: Lifetime annuity, increasing annuity (3% p.a.), annuity certain (5/10/15/20 years), life with return of purchase price, spouse continuation (50% or 100%), and joint life with return of purchase price after last survivor."
+    },
+    {
+      "chunk_id": "ret_014",
+      "title": "Atal Pension Yojana (APY)",
+      "category": "APY Overview",
+      "content": "APY is government-sponsored pension scheme for individuals aged 18–40. Provides guaranteed monthly pension slabs of ₹1000 to ₹5000 after age 60. Contributions depend on entry age and chosen pension. Government guarantees pension benefits. Offers tax benefits under Section 80C."
+    },
+    {
+      "chunk_id": "ret_015",
+      "title": "APY Enrollment and Benefits",
+      "category": "APY Operations",
+      "content": "APY account can be opened offline at bank or online via net banking/eAPY. Contributions via auto-debit. Pension payable at 60. On subscriber death, spouse receives pension; nominee receives corpus after spouse’s death. Cancellation allowed only in death/terminal illness cases. Provides three guaranteed benefits: subscriber pension, spouse pension, nominee corpus return."
+    },
+    {
+      "chunk_id": "ret_016",
+      "title": "APY Contribution Table",
+      "category": "APY Contribution Matrix",
+      "content": "APY contribution amount varies by joining age and pension slab. Example: At age 18, ₹42 monthly gives ₹1000 pension; at age 40, ₹291 monthly required for ₹1000 pension. Higher pension slabs require higher monthly contributions. Earlier joining reduces monthly burden significantly."
+    },
+    {
+      "chunk_id": "ret_017",
+      "title": "Glossary and Financial Terms",
+      "category": "Definitions",
+      "content": "Definitions include Asset, Annuity, Asset Allocation, Bond, Corpus, Compounding, Equity, Inflation, Lifecycle Fund, Lump Sum, Market-linked Investments, NPS, Pension, ROI, Risk, Tier-I Account, Tax Benefit, Valuation and others relevant to retirement planning."
+    }
+  ]
+}

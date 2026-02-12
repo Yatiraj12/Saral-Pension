@@ -1,0 +1,85 @@
+{
+  "document": "schemes.pdf",
+  "source": "/mnt/data/schemes.pdf",
+  "chunking_strategy": "section_based_semantic",
+  "chunks": [
+    {
+      "chunk_id": "nps_001",
+      "title": "About NPS",
+      "category": "NPS Overview",
+      "content": "National Pension System (NPS) is a defined contribution pension system introduced by the Government of India in 2004. It is regulated and supervised by the Pension Fund Regulatory and Development Authority (PFRDA). NPS enables systematic savings during working life to ensure stable post-retirement income. It is mandatory for Central Government employees joining service on or after 1st January 2004 and adopted by most State Governments. Any Indian citizen (resident, non-resident, overseas) aged 18–85 years can subscribe voluntarily. Employers can also adopt NPS as a retirement benefit scheme. Section 20(1) of PFRDA Act defines NPS as contributory pension system notified vide Ministry of Finance notification dated 22nd December 2003."
+    },
+    {
+      "chunk_id": "nps_002",
+      "title": "NPS Architecture",
+      "category": "NPS Structure",
+      "content": "NPS follows a robust unbundled architecture ensuring efficiency and transparency. Key entities include: NPS Trust (safeguards pension assets), Central Recordkeeping Agencies (Protean eGov Technologies Ltd, KFin Technologies Ltd, CAMS Ltd), Pension Funds (10 registered PFs), Trustee Bank (Axis Bank Ltd), Points of Presence (PoPs), Custodian (Deutsche Bank), Retirement Advisors, and Annuity Service Providers (ASPs). Each intermediary performs distinct roles to minimize systemic risks and reduce operational costs."
+    },
+    {
+      "chunk_id": "nps_003",
+      "title": "NPS Benefits",
+      "category": "NPS Features",
+      "content": "Key benefits of NPS include: Low Cost pension management, Flexibility in choosing PoP, CRA, Pension Fund and Asset Allocation, Portability across jobs and locations, Tax Efficiency under Income Tax Act 1961, Market-linked Optimum Returns, and Transparency through 24x7 online account access with mandatory disclosures."
+    },
+    {
+      "chunk_id": "nps_004",
+      "title": "Central Government NPS - Contribution & Investment",
+      "category": "Government Sector",
+      "content": "For Central Government employees: Employee contributes 10% of Basic + DA; Government contributes 14%. Funds are invested in Tier I account linked to PRAN. Default scheme distributes funds among SBI Pension Funds Pvt Ltd, UTI Retirement Solutions Ltd and LIC Pension Fund Ltd. Investment allocation (effective 10.06.2015): Up to 50% Government Securities, 45% Debt Instruments, 5% Short-term Debt, 15% Equities, 5% Asset-backed securities."
+    },
+    {
+      "chunk_id": "nps_005",
+      "title": "Tier I and Tier II Accounts",
+      "category": "Account Types",
+      "content": "Tier I: Mandatory retirement account with withdrawal restrictions, eligible for tax benefits. Tier II: Optional investment account available only with active Tier I, no withdrawal restrictions, no tax benefits. NRIs/OCIs cannot activate Tier II. Subscribers can choose different PF and investment patterns for Tier I and Tier II."
+    },
+    {
+      "chunk_id": "nps_006",
+      "title": "Investment Choices - Active & Auto",
+      "category": "Investment Options",
+      "content": "Subscribers can choose Pension Fund and asset allocation. Asset classes: Equity (E), Corporate Bonds (C), Government Securities (G). Active Choice allows allocation: Equity up to 75%, Corporate Bonds up to 100%, Government Securities up to 100%. Auto Choice offers Life Cycle Funds (LC25, LC50, LC75, Aggressive) where equity allocation reduces with age."
+    },
+    {
+      "chunk_id": "nps_007",
+      "title": "Withdrawal & Exit Rules (NPS)",
+      "category": "Exit Rules",
+      "content": "Partial Withdrawal: After 3 years, up to 25% of own contribution, max 3 times, for specific purposes. Premature Exit: After 5 years; 20% lump sum, 80% annuity (full withdrawal if corpus < ₹2.5 lakh). Normal Exit at 60: 60% lump sum, 40% annuity (full withdrawal if corpus < ₹5 lakh). Option to defer withdrawal or annuity till age 75. In case of death, nominee receives full corpus."
+    },
+    {
+      "chunk_id": "nps_008",
+      "title": "Corporate Sector Model",
+      "category": "Corporate NPS",
+      "content": "Introduced December 2011 for organized sector entities. Allows employer and employee flexible contributions (equal, unequal, or single-side). Employers can claim tax deduction under Section 36(1)(iv)(a). Employees receive benefits under Sections 80CCD(1), 80CCD(1B), 80CCD(2). Highly portable PRAN account. Corporates register via Corporate Registration Form (CHO) through PoP."
+    },
+    {
+      "chunk_id": "nps_009",
+      "title": "NPS Lite",
+      "category": "Unorganized Sector",
+      "content": "NPS-Lite launched in 2010 for unorganized sector with government co-contribution under Swavalamban scheme. Fresh enrolments ceased after launch of APY except for Gramin Dak Sevaks. Exit governed by PFRDA (Exits and Withdrawals) Regulations 2015."
+    },
+    {
+      "chunk_id": "nps_010",
+      "title": "NPS Vatsalya",
+      "category": "Minor Pension Scheme",
+      "content": "NPS Vatsalya is contributory pension scheme for minors under PFRDA Act 2013. Account opened by guardian. On attaining 18 years, seamlessly converted to NPS Tier I (All Citizen Model). Minimum contribution ₹1000 per annum. Partial withdrawal allowed up to 25% after 3 years (max 3 times). On exit at 18: 80% annuity purchase required (unless corpus ≤ ₹2.5 lakh)."
+    },
+    {
+      "chunk_id": "nps_011",
+      "title": "Unified Pension Scheme (UPS)",
+      "category": "UPS Overview",
+      "content": "UPS introduced effective 1 April 2025 as option under NPS for Central Government employees. Eligible: existing employees as on 01.04.2025, new recruits, certain retirees with minimum 10 years qualifying service. Contribution: 10% employee + 10% government + 8.5% additional to pool corpus. Assured payout: 50% of last 12 months average basic pay after 25 years service. Minimum guaranteed ₹10,000/month. Dearness Relief applicable. Family pension: 60% of payout."
+    },
+    {
+      "chunk_id": "nps_012",
+      "title": "UPS vs NPS Comparison",
+      "category": "Comparative Analysis",
+      "content": "NPS: No assured payout, market-linked pension, up to 60% withdrawal, EEE tax benefit. UPS: Assured payout (subject to conditions), ₹10,000 minimum pension, Dearness Relief available, 60% final withdrawal allowed, family pension 60% of payout. One-time one-way switch allowed. Default remains NPS if no option exercised."
+    },
+    {
+      "chunk_id": "nps_013",
+      "title": "Atal Pension Yojana (APY)",
+      "category": "APY Overview",
+      "content": "APY launched 1 June 2015 for unorganized sector. Eligibility: Indian citizens aged 18–40 with savings bank account. Income-tax payers not eligible after 1 Oct 2022. Guaranteed pension options ₹1000–₹5000/month after age 60. Spouse receives same pension after subscriber death. Nominee receives pension wealth after both demise. Administered by PFRDA through banks and post offices."
+    }
+  ]
+}

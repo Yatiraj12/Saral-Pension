@@ -1,0 +1,15 @@
+Translate the following response into the target language.
+
+Rules:
+- Do not change numbers, eligibility rules, tax section names, or pension terms.
+- Do not simplify or summarize.
+- Preserve the original meaning exactly.
+- Use commonly understood terms for citizens.
+
+Target Language:
+{language}
+
+Text:
+{text}
+
+Translated Output:
