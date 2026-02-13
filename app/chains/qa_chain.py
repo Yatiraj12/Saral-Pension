@@ -29,14 +29,30 @@ def run_qa_chain(
         sources=["qa", "schemes", "retirement"]
     )
 
+    # =========================
+    # 🔎 DEBUG SECTION (Added)
+    # =========================
+    print("\n===== RETRIEVAL DEBUG START =====")
+    if not results:
+        print("No documents retrieved.")
+    else:
+        for idx, (doc, score) in enumerate(results):
+            print(f"\nResult {idx+1}")
+            print("Score:", score)
+            print("Content Preview:", doc.page_content[:300])
+            print("-" * 60)
+    print("===== RETRIEVAL DEBUG END =====\n")
+    # =========================
+
     # Confidence thresholds (tuned for FAISS L2 distance)
-    STRONG_THRESHOLD = 0.6
-    MEDIUM_THRESHOLD = 1.2
+    STRONG_THRESHOLD = 1.0
+    MEDIUM_THRESHOLD = 1.6
 
     relevant_docs: List[Document] = []
 
     if results:
         best_score = results[0][1]
+        print("Best Score:", best_score)  # 🔎 DEBUG
 
         if best_score < STRONG_THRESHOLD:
             # High confidence match
